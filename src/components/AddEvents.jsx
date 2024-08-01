@@ -174,7 +174,8 @@ const AddEvents = ({ initialData, handleClose }) => {
                 />
               </div>
               <div className="col-md-6">
-                <label className="mt-3" htmlFor="total_number_of_sub_events">
+                
+                <label className="mt-3" htmlFor="total_number_of_sub_events"> 
                   Number of sub events
                 </label>
                 <Field
